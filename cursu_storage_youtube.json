@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cursu-storage",
+  "private_key_id": "ad9586f342efb38b093cde273d72199c676f593e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLXmc2zO7WZym7\nqOSKeYBlKtptbvIrx/1Vi+ro07G3rPKCYxsjKVzMWFDgt9tpNIi+Jo/I3rfEnUxU\nl7pFPyP1xKVYwsljyjOtQmTPCwNbuSqjYXMY2NVV5KOj2BManllTHMWCkiVGeKwQ\nL8PgCJiJlU5v+eKkIEYtA2r/RO4Z5ePscXrh/s0dc47usUl88RdMExJhtwfzCBsI\n9fwbcajaEszJkY928TZpjO1Hmijtb3ujEFFf9qutSH789pVpEgKsmfCCKJ5U5EWt\n+ejbCGubct1VHi0NCrnzM7Eb3BE7nPm0k/0w4TbeaWHmRVXL32FnEccqUTgMb/1D\n9JiZKdHBAgMBAAECggEAAR2V9FuAbeWn+XMOOeI7vZJUG2iR5IKW1arMUZWjsm28\n8NEpW3KFI0vSucDYb8XNgDmG7WOnX2k7e3VPnMShZl47R/bdkvIPgYJNOkOFs7Ga\n1cWZk4fQ98UmzqXHSQyYUdflD3fMw4uy6e3RJb/2Uj7i7MNSpnLU37dWlWrj4Xl6\nWK9MPpk9sovJm3WpeBmMK51ubPyej0pON4Wymf27TQzb13/Sk5QM0IOG1BPaCEi3\nXf+pGDvrhNJIZCiDTKX4HWlN9Ki2Ci6Tf9yU9Nc6tapBNxeWAYd9b++9+ATBwjCa\n1o5l3I3YQhOieDQFG7ndt1J5FdvEJvXY6qkFODEFXwKBgQD5iCcrJ6iyVq7QQUoY\na+7FmPtw46j5IhG4p75o1pZ5TCNq2Cthrgsx2l5D+pdDAFdXgKDKNYvLvvPKz6pu\nMoIgiNysfXxd1wM2KvB0hJum4G3MeUdCxRMRnlCil2B6vyGhGGGeL17wohm7yLB7\nCU58IWhYam2XlaDi7QQGPBitbwKBgQDQo+unCK17ausWzUGAR3kMJ3LAK8Z1bEvU\ny2GAQ40Atg4UbNTbQHD0IrM5bUibDxkaAxVhf9vrJxWIEZgFoS+P+iOL92FW/8E+\nMt4lWX8/SXcWTvw7Bb62oD3quhXqjVA+gPgJlowFfYtur+zu4TRdIH98Cx8UYAWq\niNTirhM7zwKBgQDo0xYg2P85b1HrNJALG2INcsFhQrpdwmEglzs9nMOH5/e/8HUB\nzh/Z4zNDYGSUepQELBtasP2AHOpiGMOf0HbEHo8wTmGlOUJg302+miCVYyBvwdUw\nwqsZLEt2eaHmxcF+Cz7CFtcR1V4HbajlE/jsL0up+5vH7S/RrG6t1pL79wKBgELI\nBRis5WJ4oZDl2A5oUi16vvcVy+sv48HT63xzosFUhIMzJpqbMMxkAvvhp/jBx2YV\nEJXpqAnHs9Oe1gsPQbsS9KfLYePH7yGqhIJt+BXYvP5t/7wgpZ+tAMSOFY/C9alb\n/IiNIHptaeDe/LalbO5WBZg9sxABgC7Kp2F7GHrvAoGBALImV3o3ckL3c8UV5MCH\nTAY5WYlok3j9WTjPqGhtxqKYdELwLknqGSSMPLduIXCIb/f71/is+4U7Tfc5LUUU\n6woSFeH3mlCW2vAwIH9FM234jGecrKy7nN/8BIcLIBsBkwGew1esEIwDyfEYXRGb\n6f5mbn6kjt/5Z+sd/6QOefrl\n-----END PRIVATE KEY-----\n",
+  "client_email": "cursu-483@cursu-storage.iam.gserviceaccount.com",
+  "client_id": "109758005920477621299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cursu-483%40cursu-storage.iam.gserviceaccount.com"
+}
